@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/shinyseo05/test_simulation.git/static/css/main.18e11287.css",
+    "main.js": "/shinyseo05/test_simulation.git/static/js/main.97fe42d4.js",
+    "static/js/483.594ffb6c.chunk.js": "/shinyseo05/test_simulation.git/static/js/483.594ffb6c.chunk.js",
+    "static/js/787.939d5ca9.chunk.js": "/shinyseo05/test_simulation.git/static/js/787.939d5ca9.chunk.js",
+    "service-worker.js": "/shinyseo05/test_simulation.git/service-worker.js",
+    "index.html": "/shinyseo05/test_simulation.git/index.html",
+    "main.18e11287.css.map": "/shinyseo05/test_simulation.git/static/css/main.18e11287.css.map",
+    "main.97fe42d4.js.map": "/shinyseo05/test_simulation.git/static/js/main.97fe42d4.js.map",
+    "483.594ffb6c.chunk.js.map": "/shinyseo05/test_simulation.git/static/js/483.594ffb6c.chunk.js.map",
+    "787.939d5ca9.chunk.js.map": "/shinyseo05/test_simulation.git/static/js/787.939d5ca9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e11287.css",
+    "static/js/main.97fe42d4.js"
+  ]
+}
